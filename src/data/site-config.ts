@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Jack Hsu',
+    title: "Jack Hsu's Blog",
     subtitle: '',
     description: "Jack Hsu's personal site",
     image: {
@@ -88,8 +88,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome',
-        text: "I'm **Jack Hsu**, a frontend developer based in Taiwan.",
+        title: '👋',
+        text: "I'm **Jack Hsu**, a frontend developer based in Taiwan. Welcome to my blog where I host my projects and writings.",
         image: {
             src: '/ginkgo_at_meiji_jingu.jpg',
             alt: 'Ginkgo at Meiji Jingu'

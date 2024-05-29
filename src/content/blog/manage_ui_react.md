@@ -3,9 +3,9 @@ title: Better manage UI styling with react children
 excerpt: a short write-up on how to use composition to create re-usable UI components, inspired by popular UI libraries
 publishDate: 'Mar 3 2023'
 tags:
-  - react
-  - tailwind css
-  - refactoring
+  - React
+  - Tailwind CSS
+  - Refactoring
 seo:
   image:
     src: ''
