@@ -8,7 +8,8 @@
         "paths": {
             "@/*": ["src/*"],
             "@components/*": ["src/components/*"],
-            "@aceternityui/*": ["src/components/react/aceternityui/*"]
+            "@aceternityui/*": ["src/components/react/aceternityui/*"],
+            "@assets/*": ["src/assets/*"]
         }
     }
 }
