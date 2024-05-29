@@ -1,6 +1,6 @@
 ---
 title: 'A podcast app'
-description: A podcast app (official name undecided), that aims to provide a sleek user experience, cool themes, and throw in some AI powered features that actually enhances the podcast listening experience
+description: A podcast app that aims to enhances the podcast listening experience
 publishDate: 'Jan 02 2024'
 seo:
   image:
@@ -22,4 +22,4 @@ Due to the the sunsetting of Google's podcast app, I'm in need for a replacement
 - offer a sleek user experience
 - have useful features that are powered by AI
 
-For the time being, I'm just focus on building the app out, so more write up will come later.
+For the time being, I'm just focusing on building the app out, so more write up will come later.
