@@ -1,4 +1,3 @@
-"use client";
 import { useEffect, useRef, useState } from "react";
 import { Color, Scene, Fog, PerspectiveCamera, Vector3 } from "three";
 import ThreeGlobe from "three-globe";
@@ -246,7 +245,6 @@ export function World(props: WorldProps) {
     const { globeConfig } = props;
     const scene = new Scene();
     scene.fog = new Fog(0xffffff, 400, 2000);
-    console.log({ globeConfig })
     return (
         <Canvas scene={scene} camera={new PerspectiveCamera(50, aspect, 180, 1800)}>
             <WebGLRendererConfig />
@@ -274,11 +272,6 @@ export function World(props: WorldProps) {
                 autoRotate={true}
                 minPolarAngle={Math.PI / 3.5}
                 maxPolarAngle={Math.PI - Math.PI / 3}
-                target={new Vector3(
-                    globeConfig.initialPosition?.lat || 0,
-                    globeConfig.initialPosition?.lng || 0,
-                    0
-                )}
             />
         </Canvas>
     );
