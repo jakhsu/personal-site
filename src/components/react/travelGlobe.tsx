@@ -21,8 +21,8 @@ export function TravelGlobe() {
         arcLength: 0.9,
         rings: 1,
         maxRings: 3,
-        initialPosition: { lat: 25, lng: 0 },
-        autoRotate: true,
+        initialPosition: { lat: 25, lng: 120 },
+        autoRotate: false,
         autoRotateSpeed: 0.5,
     };
     const colors = ["#06b6d4", "#3b82f6", "#6366f1"];
