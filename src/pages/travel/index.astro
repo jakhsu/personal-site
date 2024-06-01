@@ -1,0 +1,9 @@
+---
+import { TravelGlobe } from '@/components/react/travelGlobe';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Travel" description="Places I've lived and visited" image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }} showHeader={false}>
+    <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Travel</h1>
+    <TravelGlobe client:only="react" />
+</BaseLayout>
