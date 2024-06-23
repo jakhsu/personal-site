@@ -24,6 +24,7 @@ I specialize in front-end development, utilizing the latest technologies to buil
 - **React**, **Vue**, **Next**, **Nuxt**, **React Native**
 - **TailwindCSS**
 - Animation: **React Native Animated API**, **Reanimated** (for RN)
+- **Vite**: for fast and minimal tooling
 
 ### Backend
 
@@ -40,5 +41,9 @@ I specialize in front-end development, utilizing the latest technologies to buil
 
 - **Expo.dev** for fully managed React Native apps for iOS and Android
 - **Vercel** for frontend deployment
+
+### General
+
+- **Git**, **GitHub** (of course)
 
 ### This list is alway growing, come back later to see what I've learned next!
