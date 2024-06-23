@@ -20,7 +20,7 @@ I specialize in front-end development, utilizing the latest technologies to buil
 
 ### Frontend
 
-- **HTML5**, **CSS3**, **JavaScript** (ES6+), **TypeScript** (super charges JS 🥳)
+- **HTML5**, **CSS3**, **JavaScript** (ES6+), **TypeScript** (supercharges JS 🥳)
 - **React**, **Vue**, **Next**, **Nuxt**, **React Native**
 - **TailwindCSS**
 - Animation: **React Native Animated API**, **Reanimated** (for RN)
