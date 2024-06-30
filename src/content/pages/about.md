@@ -31,6 +31,7 @@ I specialize in front-end development, utilizing the latest technologies to buil
 - **Node.js**, **Express.js**, **Nest.js**
 - **PostgreSQL**
 - **Prisma**
+- **Basic SQL**
 
 ### Testing
 
