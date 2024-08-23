@@ -12,3 +12,6 @@ Feel free to drop me an email at [contactjackhsu@gmail.com](mailto:contactjackhs
 
 _Social Media:_
 Connect with me on social media as well. Find me on [Twitter](https://x.com/TZUCHUNHSU1) or [LinkedIn](https://www.linkedin.com/in/jakhsu).
+
+_Chat:_
+You can book a spot with me 👉 https://cal.com/jackhsu
